@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+  }
+  
+  #flex-container {
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+  }
+  
+  nav {
+    background-color: black ;
+    height: 75px;
+  }
+  
+  header {
+    background-color: blue;
+    height: 400px;
+  }
+  
+  section {
+    background-color: red;
+    margin: 75px 100px;
+  }
+  
+  footer {
+    background-color: gold;
+    height: 100px;
+  }
+  
+  p {
+    background-color: rgb(228, 20, 200);
+    height: 200px;
+    margin-bottom: 75px;
+  }
+  
+  div.col {
+    background-color: gray;
+    border: 2px solid green;
+    width: calc(50% - 10px);
+  }
+  
+  
