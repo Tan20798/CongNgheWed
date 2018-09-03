@@ -1,2 +1,0 @@
-# CongNgheWed
-Lab01
